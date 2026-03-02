@@ -1,0 +1,27 @@
+{
+  "name": "Rakshitha K - Software Engineer Portfolio",
+  "short_name": "Rakshitha K",
+  "description": "Professional DevOps and Cloud Engineer portfolio showcasing expertise in AWS, Kubernetes, Docker, and CI/CD automation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Profile_pic.JPG",
+      "sizes": "198x198",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Profile_pic.JPG", 
+      "sizes": "514x514",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "devops", "cloud", "engineering"],
+  "lang": "en",
+  "dir": "ltr"
+}
