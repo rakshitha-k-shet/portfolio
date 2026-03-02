@@ -18,7 +18,8 @@ export async function DELETE(request: NextRequest) {
     }
 
     // Get the bulk delete parameters from the request body
-    const body = await request.json()
+    interface BulkDeleteBody { eventType: string; startDate: string; endDate: string; }
+    const body = (await request.json()) as BulkDeleteBody;
     const { eventType, startDate, endDate } = body
 
     if (!eventType || !startDate || !endDate) {
