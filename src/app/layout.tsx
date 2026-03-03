@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: ' ',
     title: 'Rakshitha K - Software Engineer Portfolio',
-    description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD. View my portfolio showcasing cloud infrastructure projects.',
+    description: 'Software Engineer with experience in building scalable backend systems and improving code quality in production environments.',
     siteName: 'Rakshitha K Portfolio',
     images: [
       {
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   // twitter: {
   //   card: 'summary_large_image',
   //   title: 'Rakshitha K - Software Engineer Portfolio',
-  //   description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD.',
+  //   description: 'Software Engineer with experience in building scalable backend systems and improving code quality in production environments.',
   //   images: ['/Profile_pic.JPG'],
   //   creator: '@rakshitha-k-shet',
   // },
@@ -94,7 +94,7 @@ export default function RootLayout({
     '@type': 'Person',
     name: 'Rakshitha K',
     jobTitle: 'Software Engineer',
-    description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD automation',
+    description: 'Software Engineer with experience in building scalable backend systems and improving code quality in production environments.',
     url: ' ',
     image: ' /profile-pic.jpg',
     sameAs: [
