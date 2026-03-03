@@ -26,7 +26,7 @@ const certificationsData = [
     issued: "2023",
     links: [
       {
-        link_name: "Certification",
+        link_name: "Publication",
         url: "https://www.researchgate.net/publication/376348098_Automated_Detection_of_Anomalous_Events_in_Surveillance_Video_Scenes_Using_Deep_Learning_Techniques"
       }
     ]
